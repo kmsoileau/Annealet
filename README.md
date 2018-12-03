@@ -14,5 +14,3 @@ Annealet provides a structured approach to accomplishing simulated annealing.
 
 * [**Kerry Michael Soileau**](http://www.kerrysoileau.com/index.html)
 
-## License
-This project is licensed under the GPLv3 License - see the [LICENSE.md](LICENSE.md) file for details.
